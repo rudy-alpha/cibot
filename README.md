@@ -23,7 +23,7 @@ System Messages
 -----
 * When users join with a discord account younger than 90 days.
 * When people leave with a specific group. eg. Capital groups.
-* Notificatins when users are flagged with Mumble hashes of known hostiles. (Porting over to new version).
+* Notificatins when users are flagged with Mumble hashes of known hostiles. (Porting over to new version). *Requires you to have a collected list of Mumbles (https://github.com/rudy-alpha/mumble-relay).
 
 Installation
 -----
