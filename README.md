@@ -19,12 +19,14 @@ Copy Permisisons command exists to add copy permissions from one channel to anot
 Search command exists to search for users with set roles. By default CI Bot will bolden users with "Corp Leadership" role and give them the (CAP/SCAP) tag based on if they have the CAPITAL or SUPERCAPITAL groups.
 Lookup command allows users to search general information about a character. Including the blacklist status and recruitability recommendation risk metric (WIP).
 
-General Notifcations:
+System Messages
+-----
 * When users join with a discord account younger than 90 days.
 * When people leave with a specific group. eg. Capital groups.
 * Notificatins when users are flagged with Mumble hashes of known hostiles. (Porting over to new version).
 
-Installation:
+Installation
+-----
 Installing and hosting CI Bot yourself is very straight forward.
 1) Install the latest version of Python 3 (For Windows: ensure you have the python path set properly).
 2) Open Command Prompt / Terminal write "cd location_of_cibot"
