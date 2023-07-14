@@ -27,7 +27,6 @@ System Messages
 
 Installation
 -----
-Installing and hosting CI Bot yourself is very straight forward.
 1) Install the latest version of Python 3 (For Windows: ensure you have the python path set properly).
 2) Open Command Prompt / Terminal write "cd location_of_cibot"
 3) Create a Virtual Environment by writing "python3 -m 3 venv cibot"
