@@ -1,6 +1,7 @@
 # cibot
 CI Bot was built in python using discord.py. It provides quality of life features to identify leaks.
 
+Burn Relays
 ------
 As of 2023, Discord fetches images to embed from sites (CDN) on a guild by guild basis.
 If I host smug.jpeg on my webserver then post the link in a channel being relayed instead of fetching it once, discord will attempt to fetch it twice because it is being relayed.
