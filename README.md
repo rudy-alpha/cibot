@@ -14,10 +14,10 @@ If you have access a relay it will reveal the identity of the user relaying. Add
 
 Simple Commands
 -----
-Split Roles command divides groups in half. It allows me to isolate specific groups without having to manually add users to a group.
-Copy Permisisons command exists to add copy permissions from one channel to another. It is good for temporary making a makeshift channel then tampering with another to catch a relay.
-Search command exists to search for users with set roles. By default CI Bot will bolden users with "Corp Leadership" role and give them the (CAP/SCAP) tag based on if they have the CAPITAL or SUPERCAPITAL groups. Hooking into AllianceAuth via database to grab main.
-Lookup command allows users to search general information about a character. Including the blacklist status and recruitability recommendation risk metric (WIP).
+* Split Roles command divides groups in half. It allows me to isolate specific groups without having to manually add users to a group.
+* Copy Permisisons command exists to add copy permissions from one channel to another. It is good for temporary making a makeshift channel then tampering with another to catch a relay.
+* Search command exists to search for users with set roles. By default CI Bot will bolden users with "Corp Leadership" role and give them the (CAP/SCAP) tag based on if they have the CAPITAL or SUPERCAPITAL groups.
+* Lookup command allows users to search general information about a character. Including the blacklist status and recruitability recommendation risk metric (WIP).
 
 System Messages
 -----
