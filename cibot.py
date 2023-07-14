@@ -256,4 +256,4 @@ async def on_message(message):
 async def on_ready():
     await tree.sync() # Uncomment if you want global commands.
     print("Ready!")
-bot.run('MTEyODEwNzIwMTI0NDk1NDY3NA.Ge7Ndp.s_asDVkFZuuwOZTl0N9PdD2wHfZR8Elxw3WdXA')
+bot.run('TOKEN')
